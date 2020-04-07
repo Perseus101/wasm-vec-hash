@@ -1,0 +1,8 @@
+[package]
+name = "wasm-vec-hash"
+version = "0.1.0"
+authors = ["Colin Moore <colin@moore.one>"]
+edition = "2018"
+
+[dev-dependencies]
+wasm-bindgen-test = "0.3.10"
